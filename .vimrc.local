@@ -1,0 +1,7 @@
+set background=dark
+color molokai
+set nospell
+set wrap
+set autowrite
+set virtualedit=block
+set nofoldenable
